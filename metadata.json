@@ -1,0 +1,6 @@
+{
+  "name": "Bufkin Truck Services",
+  "description": "Premium commercial and personal truck rental platform in Longview, TX.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
